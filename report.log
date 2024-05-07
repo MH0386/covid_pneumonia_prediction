@@ -1,0 +1,8 @@
+2024-05-07 21:42:20,974 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-05-07 21:42:21,578 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.0674810932073193e-41, best pos: [3.15527550e-21 3.27399564e-21]
+2024-05-07 21:42:36,060 - pyswarms.utils.plotters.plotters - ERROR - Please check your input type
+Traceback (most recent call last):
+  File "c:\Users\moham\anaconda3\Lib\site-packages\pyswarms\utils\plotters\plotters.py", line 207, in plot_contour
+    fig, ax = canvas
+    ^^^^^^^
+TypeError: cannot unpack non-iterable function object
