@@ -6,3 +6,5 @@ Traceback (most recent call last):
     fig, ax = canvas
     ^^^^^^^
 TypeError: cannot unpack non-iterable function object
+2024-05-07 21:50:15,059 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-05-07 21:50:15,800 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.7619364573986048e-45, best pos: [5.14876014e-23 1.05339148e-23]
