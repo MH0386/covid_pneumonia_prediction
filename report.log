@@ -8,3 +8,59 @@ Traceback (most recent call last):
 TypeError: cannot unpack non-iterable function object
 2024-05-07 21:50:15,059 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
 2024-05-07 21:50:15,800 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.7619364573986048e-45, best pos: [5.14876014e-23 1.05339148e-23]
+2024-05-07 23:34:29,172 - pyswarms.utils.plotters.plotters - ERROR - Please check your input type
+Traceback (most recent call last):
+  File "c:\Users\moham\anaconda3\Lib\site-packages\pyswarms\utils\plotters\plotters.py", line 207, in plot_contour
+    fig, ax = canvas
+    ^^^^^^^
+TypeError: cannot unpack non-iterable function object
+2024-05-07 23:34:33,793 - pyswarms.utils.plotters.plotters - ERROR - Please check your input type
+Traceback (most recent call last):
+  File "c:\Users\moham\anaconda3\Lib\site-packages\pyswarms\utils\plotters\plotters.py", line 346, in plot_surface
+    fig, ax = canvas
+    ^^^^^^^
+TypeError: cannot unpack non-iterable function object
+2024-05-07 23:49:52,452 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-05-07 23:49:53,068 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.172786638041867e-42, best pos: [1.44069942e-22 1.07332683e-21]
+2024-05-07 23:50:04,690 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-05-07 23:50:04,698 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.005518390529605035, best pos: [-0.02047773 -0.07140765]
+2024-05-07 23:52:27,293 - pyswarms.utils.plotters.plotters - ERROR - Please check your input type
+Traceback (most recent call last):
+  File "c:\Users\moham\anaconda3\Lib\site-packages\pyswarms\utils\plotters\plotters.py", line 207, in plot_contour
+    fig, ax = canvas
+    ^^^^^^^
+TypeError: cannot unpack non-iterable function object
+2024-05-07 23:52:40,521 - pyswarms.utils.plotters.plotters - ERROR - Please check your input type
+Traceback (most recent call last):
+  File "c:\Users\moham\anaconda3\Lib\site-packages\pyswarms\utils\plotters\plotters.py", line 207, in plot_contour
+    fig, ax = canvas
+    ^^^^^^^
+TypeError: cannot unpack non-iterable function object
+2024-05-09 13:09:00,139 - numexpr.utils - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-05-09 13:09:00,140 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2024-05-09 13:20:25,988 - matplotlib.image - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+2024-05-09 13:34:29,331 - matplotlib.image - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+2024-05-09 13:41:10,330 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 13:42:01,857 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 13:46:06,029 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 13:46:54,431 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 13:47:07,300 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 13:47:43,964 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 13:50:10,760 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 13:50:47,162 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 13:53:09,544 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 14:04:13,950 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 14:04:43,328 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 14:05:33,018 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 14:06:39,279 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 14:08:53,192 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 14:09:12,977 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 14:19:28,377 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 14:19:38,231 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.5454545454545454, best pos: [1.47442227 1.5078837  1.91874901 1.05626548 1.1048524  0.90919755
+ 1.14231205 1.28948768 1.68963238 0.82932706 0.25077767 1.5280546
+ 0.32328043]
+2024-05-09 14:21:18,471 - pyswarms.single.global_best - INFO - Optimize for 10000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 14:22:54,904 - pyswarms.single.global_best - INFO - Optimize for 10000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 30, 'p': 2}
+2024-05-09 14:24:21,196 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.5649717514124295, best pos: [ 0.46756543  0.35073656  0.16739175  0.04657234  0.64477587 -0.15380878
+  1.10982719 -0.03213886  0.88724357  0.06886956  0.07930281  0.0703304
+  0.46912262]
